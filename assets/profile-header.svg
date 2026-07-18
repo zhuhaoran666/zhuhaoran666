@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+  <title id="title">Zhu Haoran</title>
+  <desc id="desc">Medical Imaging, Surgical Intelligence, and Robotics</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07152d"/>
+      <stop offset="0.55" stop-color="#0b3266"/>
+      <stop offset="1" stop-color="#0b7285"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#63e6be"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1000" height="280" rx="24" fill="url(#bg)"/>
+  <circle cx="865" cy="58" r="120" fill="#2f81f7" opacity=".16" filter="url(#glow)"/>
+  <circle cx="925" cy="235" r="105" fill="#20c997" opacity=".14" filter="url(#glow)"/>
+  <path d="M735 64h122l61 105-61 47H735l-61-47Z" fill="none" stroke="#7ee8fa" stroke-width="2" opacity=".25"/>
+  <circle cx="735" cy="64" r="7" fill="#58a6ff"/>
+  <circle cx="857" cy="64" r="7" fill="#63e6be"/>
+  <circle cx="918" cy="169" r="7" fill="#58a6ff"/>
+  <circle cx="857" cy="216" r="7" fill="#63e6be"/>
+  <circle cx="735" cy="216" r="7" fill="#58a6ff"/>
+  <circle cx="674" cy="169" r="7" fill="#63e6be"/>
+  <path d="M770 105c31-23 76 0 76 38 0 25-18 42-38 55-20-13-38-30-38-55 0-38 45-61 76-38" fill="none" stroke="#fff" stroke-width="3" opacity=".72"/>
+  <path d="M795 138h26m-13-13v26" stroke="#63e6be" stroke-width="4" stroke-linecap="round"/>
+  <rect x="68" y="56" width="76" height="7" rx="3.5" fill="url(#accent)"/>
+  <text x="68" y="129" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="54" font-weight="700" letter-spacing="2">ZHU HAORAN</text>
+  <text x="70" y="175" fill="#b9d9ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" font-weight="500">MEDICAL IMAGING · SURGICAL INTELLIGENCE · ROBOTICS</text>
+  <text x="70" y="221" fill="#d7e8f8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17">Ph.D. Student  ·  SDU × SLAI</text>
+</svg>
