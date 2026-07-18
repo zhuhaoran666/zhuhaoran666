@@ -6,7 +6,7 @@
 
 I build practical tools at the intersection of **medical imaging**, **surgical intelligence**, and **robotics**.
 
-[Selected work](#selected-work) · [Research interests](#research-interests) · [Google Scholar](https://scholar.google.com/citations?user=lIb5f7MAAAAJ&hl=zh-CN) · [GitHub profile](https://github.com/zhuhaoran666)
+[News](#news) · [Selected work](#selected-work) · [Research interests](#research-interests) · [Google Scholar](https://scholar.google.com/citations?user=lIb5f7MAAAAJ&hl=zh-CN) · [GitHub profile](https://github.com/zhuhaoran666)
 
 </div>
 
@@ -17,6 +17,10 @@ I build practical tools at the intersection of **medical imaging**, **surgical i
 Hi, I'm **Zhu Haoran**. I am a Ph.D. student at **Shandong University (SDU)** and the **Shenzhen Loop Area Institute (SLAI)**.
 
 My work explores how computer vision, medical-image computing, simulation, and robotic systems can be turned into useful research tools. I enjoy building complete workflows—from data and algorithms to visualization and physical prototypes.
+
+## News
+
+- **Clinical guideline citation** — Our collaborative research with **Shenzhen Children's Hospital** on pediatric rare diseases has been cited in a clinical guideline. I am deeply grateful to **Director Zhiyong Li** and all our clinical collaborators for their trust, expertise, and partnership.
 
 ## Research interests
 
