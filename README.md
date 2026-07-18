@@ -6,7 +6,7 @@
 
 I build practical tools at the intersection of **medical imaging**, **surgical intelligence**, and **robotics**.
 
-[Selected work](#selected-work) · [Research interests](#research-interests) · [GitHub profile](https://github.com/zhuhaoran666)
+[Selected work](#selected-work) · [Research interests](#research-interests) · [Google Scholar](https://scholar.google.com/citations?user=lIb5f7MAAAAJ&hl=zh-CN) · [GitHub profile](https://github.com/zhuhaoran666)
 
 </div>
 
@@ -60,6 +60,10 @@ My work explores how computer vision, medical-image computing, simulation, and r
 
 `Python` · `C++` · `PyTorch` · `3D Slicer` · `Computer Vision` · `Medical Image Computing` · `3D Modeling` · `Git`
 
+## Academic profile
+
+📚 **[View my publications on Google Scholar](https://scholar.google.com/citations?user=lIb5f7MAAAAJ&hl=zh-CN)**
+
 ## Current direction
 
 - Developing reproducible research tools for medical-image analysis and surgical applications
@@ -72,6 +76,6 @@ My work explores how computer vision, medical-image computing, simulation, and r
 
 **Research should be reproducible, useful, and built to leave the lab.**
 
-[Explore my repositories](https://github.com/zhuhaoran666?tab=repositories)
+[Google Scholar](https://scholar.google.com/citations?user=lIb5f7MAAAAJ&hl=zh-CN) · [Explore my repositories](https://github.com/zhuhaoran666?tab=repositories)
 
 </div>
