@@ -25,7 +25,6 @@ My work explores how computer vision, medical-image computing, simulation, and r
 | 🩻 | **Medical imaging** | Segmentation, quantitative analysis, and 3D Slicer-based workflows |
 | 🩺 | **Surgical intelligence** | Outcome simulation and intraoperative fluorescence analysis |
 | 🤖 | **Robotics** | Robot perception, camera integration, and task-oriented hardware design |
-| 🧠 | **Machine learning** | Applied deep learning and federated-learning experiments |
 
 ## Selected work
 
