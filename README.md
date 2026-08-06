@@ -20,6 +20,8 @@ My work explores how computer vision, medical-image computing, simulation, and r
 
 ## News
 
+- **Published in Surgical Endoscopy (2025)** — Our paper, “[Biophysical modeling and artificial intelligence for quantitative assessment of anastomotic blood supply in laparoscopic low anterior rectal resection](https://doi.org/10.1007/s00464-025-11693-6),” has been published in *Surgical Endoscopy*. Repository: [Intraoperative-fluorescence-analysis](https://github.com/zhuhaoran666/Intraoperative-fluorescence-analysis).
+- **Published at IEEE ISBI 2024** — Our paper, “[Combing 3D body surface and CT volumetric data for ankylosing spondylitis surgery outcome simulation](https://doi.org/10.1109/ISBI56570.2024.10635312),” has been published in the proceedings of the *2024 IEEE International Symposium on Biomedical Imaging (ISBI)*. Repository: [AS-surgery-outcome-simulation](https://github.com/zhuhaoran666/AS-surgery-outcome-simulation).
 - **Clinical guideline citation** — Our collaborative research with **Shenzhen Children's Hospital** on pediatric rare diseases has been cited in a clinical guideline. I am deeply grateful to **Director Zhiyong Li** and all our clinical collaborators for their trust, expertise, and partnership.
 
 ## Research interests
