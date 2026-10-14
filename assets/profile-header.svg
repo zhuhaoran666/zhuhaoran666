@@ -1,34 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
-  <title id="title">Zhu Haoran</title>
-  <desc id="desc">Medical Imaging, Surgical Intelligence, and Robotics</desc>
+  <title id="title">Zhu Haoran — live GitHub statistics</title>
+  <desc id="desc">Hourly statistics for stars, public repositories, followers, and forks.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07152d"/>
-      <stop offset="0.55" stop-color="#0b3266"/>
-      <stop offset="1" stop-color="#0b7285"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#58a6ff"/>
-      <stop offset="1" stop-color="#63e6be"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="18"/>
-    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07152d"/><stop offset=".58" stop-color="#0b3266"/><stop offset="1" stop-color="#0b7285"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#63e6be"/></linearGradient>
   </defs>
   <rect width="1000" height="280" rx="24" fill="url(#bg)"/>
-  <circle cx="865" cy="58" r="120" fill="#2f81f7" opacity=".16" filter="url(#glow)"/>
-  <circle cx="925" cy="235" r="105" fill="#20c997" opacity=".14" filter="url(#glow)"/>
-  <path d="M735 64h122l61 105-61 47H735l-61-47Z" fill="none" stroke="#7ee8fa" stroke-width="2" opacity=".25"/>
-  <circle cx="735" cy="64" r="7" fill="#58a6ff"/>
-  <circle cx="857" cy="64" r="7" fill="#63e6be"/>
-  <circle cx="918" cy="169" r="7" fill="#58a6ff"/>
-  <circle cx="857" cy="216" r="7" fill="#63e6be"/>
-  <circle cx="735" cy="216" r="7" fill="#58a6ff"/>
-  <circle cx="674" cy="169" r="7" fill="#63e6be"/>
-  <path d="M770 105c31-23 76 0 76 38 0 25-18 42-38 55-20-13-38-30-38-55 0-38 45-61 76-38" fill="none" stroke="#fff" stroke-width="3" opacity=".72"/>
-  <path d="M795 138h26m-13-13v26" stroke="#63e6be" stroke-width="4" stroke-linecap="round"/>
-  <rect x="68" y="56" width="76" height="7" rx="3.5" fill="url(#accent)"/>
-  <text x="68" y="129" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="54" font-weight="700" letter-spacing="2">ZHU HAORAN</text>
-  <text x="70" y="175" fill="#b9d9ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" font-weight="500">MEDICAL IMAGING · SURGICAL INTELLIGENCE · ROBOTICS</text>
-  <text x="70" y="221" fill="#d7e8f8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17">Ph.D. Student  ·  SDU × SLAI</text>
+  <circle cx="940" cy="30" r="150" fill="#20c997" opacity=".08"/>
+  <text x="54" y="48" fill="#b9d9ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" font-weight="700" letter-spacing="2">ZHU HAORAN · OPEN-SOURCE SNAPSHOT</text>
+  <rect x="806" y="27" width="142" height="28" rx="14" fill="#ffffff" opacity=".1"/>
+  <circle cx="824" cy="41" r="4" fill="#63e6be"/>
+  <text x="836" y="46" fill="#d7e8f8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" font-weight="600" letter-spacing=".6">REFRESHES HOURLY</text>
+  <rect x="48" y="72" width="380" height="154" rx="18" fill="#ffffff" opacity=".1" stroke="#8ecbff" stroke-opacity=".28"/>
+  <rect x="48" y="72" width="6" height="154" rx="3" fill="url(#accent)"/>
+  <text x="78" y="107" fill="#b9d9ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="700" letter-spacing="1.7">TOTAL STARS</text>
+  <path d="M372 91l5.4 11 12.1 1.8-8.8 8.6 2.1 12.1-10.8-5.7-10.8 5.7 2.1-12.1-8.8-8.6 12.1-1.8z" fill="#63e6be"/>
+  <text x="77" y="174" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="55" font-weight="750">—</text>
+  <text x="80" y="203" fill="#d7e8f8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14">across public repositories</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
+    <rect x="448" y="72" width="155" height="154" rx="18" fill="#ffffff" opacity=".09" stroke="#8ecbff" stroke-opacity=".18"/><text x="468" y="107" fill="#b9d9ff" font-size="12" font-weight="700" letter-spacing=".7">PUBLIC REPOS</text><text x="468" y="164" fill="#ffffff" font-size="36" font-weight="700">—</text><path d="M469 191h112" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+    <rect x="623" y="72" width="155" height="154" rx="18" fill="#ffffff" opacity=".09" stroke="#8ecbff" stroke-opacity=".18"/><text x="643" y="107" fill="#b9d9ff" font-size="12" font-weight="700" letter-spacing=".7">FOLLOWERS</text><text x="643" y="164" fill="#ffffff" font-size="36" font-weight="700">—</text><path d="M644 191h112" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+    <rect x="798" y="72" width="155" height="154" rx="18" fill="#ffffff" opacity=".09" stroke="#8ecbff" stroke-opacity=".18"/><text x="818" y="107" fill="#b9d9ff" font-size="12" font-weight="700" letter-spacing=".7">TOTAL FORKS</text><text x="818" y="164" fill="#ffffff" font-size="36" font-weight="700">—</text><path d="M819 191h112" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+  </g>
+  <text x="54" y="255" fill="#a9c7e8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11">PUBLIC ACTIVITY · LAST UPDATED AFTER FIRST WORKFLOW RUN</text>
 </svg>
