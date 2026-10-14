@@ -1,6 +1,6 @@
 <div align="center">
 
-![Zhu Haoran — Medical Imaging, Surgical Intelligence, and Robotics](assets/profile-header.svg)
+![Zhu Haoran — live GitHub statistics](assets/profile-header.svg)
 
 ### Ph.D. Student · Shandong University × Shenzhen Loop Area Institute
 
