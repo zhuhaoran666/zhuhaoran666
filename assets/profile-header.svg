@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
   <title id="title">Zhu Haoran — live GitHub statistics</title>
-  <desc id="desc">Total stars 37, public repositories 8, followers 10, and forks 0.</desc>
+  <desc id="desc">Total stars 37, public repositories 8, followers 11, and forks 0.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07152d"/>
@@ -34,7 +34,7 @@
 
     <rect x="623" y="72" width="155" height="154" rx="18" fill="#ffffff" opacity=".09" stroke="#8ecbff" stroke-opacity=".18"/>
     <text x="643" y="107" fill="#b9d9ff" font-size="12" font-weight="700" letter-spacing=".7">FOLLOWERS</text>
-    <text x="643" y="164" fill="#ffffff" font-size="36" font-weight="700">10</text>
+    <text x="643" y="164" fill="#ffffff" font-size="36" font-weight="700">11</text>
     <path d="M644 191h112" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity=".8"/>
 
     <rect x="798" y="72" width="155" height="154" rx="18" fill="#ffffff" opacity=".09" stroke="#8ecbff" stroke-opacity=".18"/>
@@ -42,5 +42,5 @@
     <text x="818" y="164" fill="#ffffff" font-size="36" font-weight="700">0</text>
     <path d="M819 191h112" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity=".8"/>
   </g>
-  <text x="54" y="255" fill="#a9c7e8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11">PUBLIC ACTIVITY · LAST UPDATED 2026-10-27 19:21 UTC</text>
+  <text x="54" y="255" fill="#a9c7e8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11">PUBLIC ACTIVITY · LAST UPDATED 2026-10-27 23:30 UTC</text>
 </svg>
